@@ -1,2 +1,5 @@
-package org.example;public class Pet {
+package org.example;
+
+public interface Pet {
+    String getName();
 }
